@@ -14,6 +14,6 @@ In het het bestand  [index.html](index.html) houd je een overzicht bij van wat j
 **Dit overzicht zet je op je eigen Ma Cloud website en houd je up-to-date!**
 
 Plaats in deze readme een link naar het index bestand op je ma-cloud site.  
-**HIER de link plaatsen**
+**file:///C:/Users/Jasper/Documents/ma/Bewijzenmap/Schooljaar%201/periode%202/F1M1JavaScript%20Achievements/Javascript-Achievements/index.html**
 
 
